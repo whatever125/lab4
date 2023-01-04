@@ -1,7 +1,7 @@
 package sources.Events;
 
 import sources.Enums.Place;
-import sources.Models.Malysh;
+import sources.Models.Objects.Malysh;
 
 public class NeznaykaWalkEvent extends Event {
     private final Malysh neznayka;

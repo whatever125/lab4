@@ -1,7 +1,7 @@
 package sources.Events;
 
-import sources.Models.Creature;
-import sources.Models.House;
+import sources.Models.Abstracts.Creature;
+import sources.Models.Objects.House;
 
 import java.util.List;
 

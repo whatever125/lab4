@@ -1,8 +1,8 @@
 package sources.Events;
 
-import sources.Models.Malysh;
-import sources.Models.Building.Room;
-import sources.Models.Thing;
+import sources.Models.Objects.Malysh;
+import sources.Models.Objects.RoomStorage.Room;
+import sources.Models.Abstracts.Thing;
 
 public class BecomingCleverEvent extends Event {
     private final Malysh malysh;

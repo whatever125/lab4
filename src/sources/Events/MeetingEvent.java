@@ -2,9 +2,9 @@ package sources.Events;
 
 import sources.Enums.Place;
 import sources.Exceptions.BeetleFlyAwayException;
-import sources.Models.Beetle;
-import sources.Models.Malysh;
-import sources.Models.Thing;
+import sources.Models.Objects.Beetle;
+import sources.Models.Objects.Malysh;
+import sources.Models.Abstracts.Thing;
 
 import java.net.URISyntaxException;
 
